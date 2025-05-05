@@ -26,14 +26,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-![Yatharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=YatharthBajaj&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YatharthBajaj&layout=compact&theme=radical)
-
----
 - 🔭 I’m currently working on creating AI Agents for Sprite Health
 - 🌱 I’m currently learning Python
 
