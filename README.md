@@ -1,37 +1,55 @@
+# 👋 Hi there, I’m **Yatharth Bajaj**
 
-# 👋 Hey, I'm Yatharth Bajaj
-
-🎓 I'm a Computer Science student at the University of Cincinnati  
-🤖 Passionate about all things **Artificial Intelligence**  
-📚 Currently learning **Python**, **SQL**, and diving deeper into **Machine Learning**
+> 💻 Computer Science @ University of Cincinnati • 🤖 AI Enthusiast • 🌱 Learning Python & SQL
 
 ---
 
-## 🚀 About Me
+## 🎉 Fun Facts
+- 🏀 I once coded a Tic-Tac-Toe AI in **10 minutes**  
+- ☕ Powered by **chai** & late-night coding sessions  
+- 🎵 Background soundtrack: **Lo-fi beats**
 
-- 💡 Always curious about how AI can reshape the world  
-- 🛠️ Building cool things, one line of code at a time  
-- 🌍 Open to collaborations and learning from fellow developers
+---
+
+## 🧰 Tech Stack & Comfort Level  
+- **Python**      [████████░░░░░░] 80%  
+- **SQL**         [███████░░░░░░░] 70%  
+- **JavaScript**  [███████░░░░░░░] 70%  
+- **C++**         [███████░░░░░░░] 70%  
+- **HTML & CSS**  [██████░░░░░░░░] 60%  
+
+![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs?username=YatharthBajaj&layout=compact)
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+| Project                                         | Description                                         | Tech              |
+| ----------------------------------------------- | --------------------------------------------------- | ----------------- |
+| [AI-Agent for Sprite Health](https://github.com/YatharthBajaj/sprite-health-ai) | Multi-agent orchestration for health data analysis  | Python, Docker    |
+| [Road CCTV Rash-Drive](https://github.com/YatharthBajaj/rash-drive)         | Real-time rash driving detection from highway CCTV  | Python, YOLO, OpenCV |
+| [CogniCodeAI](https://github.com/YatharthBajaj/cognicode-ai)               | SuperMemory-powered code learning assistant         | Node.js, React    |
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/.../rashdrive-demo.gif" alt="Rash-Drive Demo" width="600"/>
+</p>
 
 ---
-- 🔭 I’m currently working on creating AI Agents for Sprite Health
-- 🌱 I’m currently learning Python
 
-  
-## 📫 Let's Connect
+## ✨ Dynamic & Interactive
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yatharth-bajaj/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bajajyh@mail.uc.edu)
+- **Visitor Count**  
+  ![Visitor Count](https://profile-counter.glitch.me/YatharthBajaj/count.svg)
 
+- **Currently Learning**  
+  - SQL Window Functions  
+  - Transformer architectures in NLP  
+  - Deployment with FastAPI  
+
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatharth-bajaj)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bajajyh@mail.uc.edu)
+
+> 🚀 Let’s build something amazing together!
