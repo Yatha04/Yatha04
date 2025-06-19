@@ -41,12 +41,21 @@
 - **Visitor Count**  
   ![Visitor Count](https://profile-counter.glitch.me/YatharthBajaj/count.svg)
 
-- **Currently Learning**  
-  - SQL Window Functions  
-  - Transformer architectures in NLP  
-  - Deployment with FastAPI  
+## ✨ Dynamic & Interactive
 
+<!-- Contribution Calendar / Activity Graph -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YatharthBajaj&theme=react-dark&hide_border=true)
 
+<!-- WakaTime Coding Stats -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&layout=compact)
+
+<!-- Spotify Now Playing -->
+![Spotify Now Playing](https://spotify-readme.now.sh/api/spotify)
+
+<!-- Countdown to Graduation (May 1, 2027) -->
+<p align="center">
+  <img src="https://countdownapi.com/c/2027-05-01T00:00:00?theme=light" alt="Countdown to Graduation" />
+</p>
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatharth-bajaj)  
