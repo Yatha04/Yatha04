@@ -18,7 +18,6 @@
 - **C++**         [███████░░░░░░░] 70%  
 - **HTML & CSS**  [██████░░░░░░░░] 60%  
 
-![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs?username=YatharthBajaj&layout=compact)
 
 ---
 
@@ -44,13 +43,11 @@
 ## ✨ Dynamic & Interactive
 
 <!-- Contribution Calendar / Activity Graph -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YatharthBajaj&theme=react-dark&hide_border=true)
+![Contribution Graph]([https://activity-graph.herokuapp.com/graph?username=YatharthBajaj&theme=react-dark&hide_border=true](https://green-wall.leoku.dev/share/Yatha04?start=2024))
 
 <!-- WakaTime Coding Stats -->
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&layout=compact)
 
-<!-- Spotify Now Playing -->
-![Spotify Now Playing](https://spotify-readme.now.sh/api/spotify)
 
 <!-- Countdown to Graduation (May 1, 2027) -->
 <p align="center">
