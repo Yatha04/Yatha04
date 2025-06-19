@@ -5,9 +5,9 @@
 ---
 
 ## 🎉 Fun Facts
-- 🏀 I once coded a Tic-Tac-Toe AI in **10 minutes**  
-- ☕ Powered by **chai** & late-night coding sessions  
-- 🎵 Background soundtrack: **Lo-fi beats**
+- 🏀 I have a black belt in Karate 
+- ☕ I don't drink Coffee  
+- 🎵 Background soundtrack: **US and Hindi Rap**
 
 ---
 
@@ -33,26 +33,6 @@
   <img src="https://user-images.githubusercontent.com/.../rashdrive-demo.gif" alt="Rash-Drive Demo" width="600"/>
 </p>
 
----
-
-## ✨ Dynamic & Interactive
-
-- **Visitor Count**  
-  ![Visitor Count](https://profile-counter.glitch.me/YatharthBajaj/count.svg)
-
-## ✨ Dynamic & Interactive
-
-<!-- Contribution Calendar / Activity Graph -->
-![Contribution Graph]([https://activity-graph.herokuapp.com/graph?username=YatharthBajaj&theme=react-dark&hide_border=true](https://green-wall.leoku.dev/share/Yatha04?start=2024))
-
-<!-- WakaTime Coding Stats -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&layout=compact)
-
-
-<!-- Countdown to Graduation (May 1, 2027) -->
-<p align="center">
-  <img src="https://countdownapi.com/c/2027-05-01T00:00:00?theme=light" alt="Countdown to Graduation" />
-</p>
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatharth-bajaj)  
