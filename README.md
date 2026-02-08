@@ -1,10 +1,10 @@
 # Hi, I'm Yatharth Bajaj
 
-CS @ University of Cincinnati | AI & ML
+CS @ University of Cincinnati
 
 Currently learning AI & ML.
 
-Analyst @ Bearcat Ventures | Controls Engineer @ JTEKT
+Controls Engineer @ JTEKT | Analyst @ Bearcat Ventures
 
 Interested in travelling and photography.
 
